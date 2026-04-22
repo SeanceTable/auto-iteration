@@ -1,4 +1,4 @@
-# autozip — Karpathy-style autoresearch loop for .zip compression
+# autozip — Karpathy-style autoresearch loop for .zip compression (Can be converted to Any Project!)
 
 A single-machine, single-metric autonomous research loop adapted from
 [karpathy/autoresearch](https://github.com/karpathy/autoresearch). Instead of
