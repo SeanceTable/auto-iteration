@@ -60,4 +60,7 @@ cp ~/some-files/* ./corpus/
 python run_experiment.py
 
 # 3. Point your coding agent at program.md and let it go.
+Example: export AUTOZIP_MODEL=devstral-small-2:24b
+# 4.
+python3 agent.py
 ```
